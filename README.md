@@ -3,7 +3,7 @@
 <br />
 <br />
 <br /><br /><br /><br /><br />
-En esta seccion encontrará las deficiones de los conceptos vistos durante el curso Innovaación Virtual 2021.
+En esta seccion encontrará las deficiones de los conceptos vistos durante el curso Innovacción Virtual 2021.
 
 # Índice
 - [Participantes](#participantes)
