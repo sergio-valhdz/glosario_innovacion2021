@@ -54,7 +54,7 @@ Dos o mas regiones gestionados por Azure, existen 5, Americas, Europa, Asia Pac√
 Centros de datos separados fisicamente entre las regiones.
 
 ##  Servicios de Azure
-<img align="center"  alt="logo"  width="350px" src=../Recursos/Logoazure.png  />
+<img align="center"  alt="logo"  width="350px" src=../Recursos/LogoAzure.png  />
 <br />
 <br />
 
