@@ -7,11 +7,47 @@ En esta seccion encontrará las deficiones de los conceptos vistos durante el cu
 
 ## Participantes
 ### Sergio Antonio Valencia hernandez
+Sígueme en:
+<a href="https://www.linkedin.com/in/seanvaer/">
+  <img align="center" alt="LinkdeIn Sergio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/sergio16_vh12/">
+  <img align="center" alt="Instagram Sergio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://github.com/sergio-valhdz/">
+  <img align="center" alt="Github Sergio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
 ![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=sergio-valhdz&show_icons=true&hide_border=true&count_private=false&theme=midnight-purple)
+
+### Ricardo Córdova Sánchez
+Sígueme en:
+<a href="https://www.linkedin.com/in/ricardo-cordova-62b915194/">
+  <img align="center" alt="LinkdeIn Ricardo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/ricardo_sanchez0306/">
+  <img align="center" alt="Instagram Ricardo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://github.com/Ricardocor67/">
+  <img align="center" alt="Github Ricardo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
 ![Ricardos's github stats](https://github-readme-stats.vercel.app/api?username=ricardocor67&show_icons=true&hide_border=true&count_private=false&theme=cobalt)
 
+### Jose Ramiro Velazquez Peregrino  
+Sígueme en:
+<a href="https://www.linkedin.com/in/jos%C3%A9-ramiro-vel%C3%A1zquez-peregrino-4628361b7/">
+  <img align="center" alt="LinkdeIn Ramiro" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/ramyvepe/">
+  <img align="center" alt="Instagram Ramiro" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://github.com/RamiroVelazquez/">
+  <img align="center" alt="Github Ramiro" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
 ![Ramiro's github stats](https://github-readme-stats.vercel.app/api?username=RamiroVelazquez&show_icons=true&hide_border=true&count_private=false&theme=outrun)
+
 
 ## Conceptos basicos
 
@@ -41,9 +77,9 @@ Prestación de Servicios Informáicos a través de internet.
 |Los recursos son priopiedad de los servicios de un tercero.| Los recursos son de la organización en su base de datos. | Combina ambas, permite que las aplicaciones se ejecuten en la ubicación más adecuada. |
 
 ### Escalabilidad
-    *Vertical: Capacidad informática de aumentar RAM o CPU a una maquina virtual
-
-    *Horizontal: Capacidad informática para aumentar instancias de un recurso, como maquinas virtuales adicionales a una configuración.
+ * Vertical: Capacidad informática de aumentar RAM o CPU a una maquina virtual
+ 
+ * Horizontal: Capacidad informática para aumentar instancias de un recurso, como maquinas virtuales adicionales a una configuración.
 
 ### Elasticidad
 
