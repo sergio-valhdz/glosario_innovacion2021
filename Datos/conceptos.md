@@ -81,3 +81,4 @@ Dos o mas regiones gestionados por Azure, existen 5, Americas, Europa, Asia Pac√
 ### Zonas de disponibilidad
 
 Centros de datos separados fisicamente entre las regiones.
+
