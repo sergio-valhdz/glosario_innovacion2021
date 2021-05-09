@@ -7,11 +7,11 @@ En esta seccion encontrará las deficiones de los conceptos vistos durante el cu
 
 ## Participantes
 ### Sergio Antonio Valencia hernandez
-![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=sergio-valhdz&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple)
+![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=sergio-valhdz&show_icons=true&hide_border=true&count_private=false&theme=midnight-purple)
 
-![Ricardos's github stats](https://github-readme-stats.vercel.app/api?username=ricardocor67&show_icons=true&hide_border=true&count_private=true&theme=cobalt)
+![Ricardos's github stats](https://github-readme-stats.vercel.app/api?username=ricardocor67&show_icons=true&hide_border=true&count_private=false&theme=cobalt)
 
-![Ramiro's github stats](https://github-readme-stats.vercel.app/api?username=RamiroVelazquez&show_icons=true&hide_border=true&count_private=true&theme=outrun)
+![Ramiro's github stats](https://github-readme-stats.vercel.app/api?username=RamiroVelazquez&show_icons=true&hide_border=true&count_private=false&theme=outrun)
 
 ## Conceptos basicos
 
