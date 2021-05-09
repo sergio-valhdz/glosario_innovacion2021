@@ -1,3 +1,5 @@
+# Conceptos básicos
+
 ##  Servicios de Azure
 
 ### Compute Services
@@ -81,3 +83,31 @@ Dos o mas regiones gestionados por Azure, existen 5, Americas, Europa, Asia Pac�
 ### Zonas de disponibilidad
 
 Centros de datos separados fisicamente entre las regiones.
+
+# Comandos útiles
+
+## Git <img align="center" alt="Git" width="125px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+
+## Actualizar repositorio local
+
+    git pull
+
+### Crear rama
+
+    git checkout -b branch-name
+
+### Moverse a otra rama
+
+    git checkout branch-name
+
+### Guardar cambios
+
+    git add .
+
+### Crear commit
+
+    git commit -m "name"
+
+### Subir cambios
+
+    git push origin branch-name
