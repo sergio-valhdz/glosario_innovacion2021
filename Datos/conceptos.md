@@ -1,5 +1,5 @@
 ##  Servicios de Azure
-<img align="center"  alt="logo"  width="350px" src=./Recursos/logoazure.png  />
+<img align="center"  alt="logo"  width="350px" src=../Recursos/Logoazure.png  />
 <br />
 <br />
 
@@ -7,8 +7,11 @@
 
 Servicios de computo o procesamiento bajo demanda para aplicaciones usadas en la nube.
 Unos ejemplos serian:
+
     * OneDrive de Microsoft
+
     * iCloud de Apple
+
     * Google Drive de Google
 
 
