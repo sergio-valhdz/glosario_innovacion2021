@@ -2,39 +2,6 @@
 
 # Conceptos básicos
 
-##  Servicios de Azure
-
-### Compute Services
-
-Servicios de computo o procesamiento bajo demanda para aplicaciones usadas en la nube.
-
-### Networking Services
-
-Servicios de red que permiten conectarse entre diversos sitios.
-
-### Databases Services
-
-Servicios de bases de datos
-
-### Storage
-
-Almacenamiento de objetos grandes
-
-### Azure machine learning Services
-
-Crea tu modelo de intelgencia artificial
-
-### Azure Machine Learning Studio
-
-Modelos entrenados de manera visual y colaborativa
-
-### Azure cognitives Services
-
-Procesamiento de lenguaje natural,imagenes, voz, etc.
-
-### DevOps Azure
-Automatizar procesos
-
 ## La nube
 
 Prestación de Servicios Informáicos a través de internet.
