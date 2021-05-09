@@ -61,13 +61,14 @@ Centros de datos separados fisicamente entre las regiones.
 ### Compute Services
 
 Servicios de computo o procesamiento bajo demanda para aplicaciones usadas en la nube.
+
 Unos ejemplos serian:
 
-    * OneDrive de Microsoft
+* OneDrive de Microsoft
 
-    * iCloud de Apple
+* iCloud de Apple
 
-    * Google Drive de Google
+* Google Drive de Google
 
 
 ### Networking Services
@@ -97,6 +98,7 @@ Modelos entrenados de manera visual y colaborativa es un portal web en Azure Mac
 Tiene como objetivo ayudar a los desarrolladores a crear aplicaciones inteligentes sin la utilización de “inteligencia artificial directa” y sin la necesidad de aptitudes ni conocimientos sobre ciencia de datos.
 
 ### DevOps Azure
+Es un conjunto de herramientas y servicios que te ayuda a administrar tus proyectos de desarrollo de software en todas sus fases.
 Es un conjunto de herramientas y servicios que te ayuda a administrar tus proyectos de desarrollo de software en todas sus fases.
 
 # Comandos útiles
