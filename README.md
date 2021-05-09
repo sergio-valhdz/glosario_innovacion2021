@@ -48,45 +48,24 @@ Sígueme en:
 
 ![Ramiro's github stats](https://github-readme-stats.vercel.app/api?username=RamiroVelazquez&show_icons=true&hide_border=true&theme=outrun)
 
-
-# Conceptos basicos
-
-##  Servicios de Azure
-
-### Compute Services
-
-### Networking Services
-
-### Databases Services
-
-### Storage
-
-### Azure machine learning Services
-
-### Azure Machine Learning Studio
-
-### Azure cognitives Services
-
-### DevOps Azure
-
-## La nube
-
-### Escalabilidad
-
-### Elasticidad
-
-### Agilidad
-
-### Alta diponibilidad
-
-### Tolerancia a fallos
-
-### Modelos de servicio de la nube
-
-## Infraestructura de Azure
-
-### Region de Azure
-
-### Geografia de Azure
-
-### [Zonas de disponibilidad](/Datos/conceptos.md")
+- [Conceptos basicos](#conceptos-basicos)
+  - [Servicios de Azure](#servicios-de-azure)
+    - [Compute Services](#compute-services)
+    - [Networking Services](#networking-services)
+    - [Databases Services](#databases-services)
+    - [Storage](#storage)
+    - [Azure machine learning Services](#azure-machine-learning-services)
+    - [Azure Machine Learning Studio](#azure-machine-learning-studio)
+    - [Azure cognitives Services](#azure-cognitives-services)
+    - [DevOps Azure](#devops-azure)
+  - [La nube](#la-nube)
+    - [Escalabilidad](#escalabilidad)
+    - [Elasticidad](#elasticidad)
+    - [Agilidad](#agilidad)
+    - [Alta diponibilidad](#alta-diponibilidad)
+    - [Tolerancia a fallos](#tolerancia-a-fallos)
+    - [Modelos de servicio de la nube](#modelos-de-servicio-de-la-nube)
+  - [Infraestructura de Azure](#infraestructura-de-azure)
+    - [Region de Azure](#region-de-azure)
+    - [Geografia de Azure](#geografia-de-azure)
+    - [Zonas de disponibilidad](#zonas-de-disponibilidad)
