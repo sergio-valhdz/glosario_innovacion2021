@@ -86,7 +86,8 @@ Centros de datos separados fisicamente entre las regiones.
 
 # Comandos útiles
 
-## Git <img align="center" alt="Git" width="125px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+## Git 
+<img align="center" alt="Git" width="125px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
 
 ## Actualizar repositorio local
 
