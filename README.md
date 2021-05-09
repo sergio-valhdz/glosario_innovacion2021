@@ -33,7 +33,7 @@ Sígueme en:
   <img align="center" alt="Github Ricardo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardocor67&count_private=false&theme=cobalt&hide_border=false&show_icons=true)
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardocor67&theme=cobalt&hide_border=true&show_icons=true)
 
 ### Jose Ramiro Velazquez Peregrino  
 Sígueme en:
@@ -71,5 +71,3 @@ Sígueme en:
     - [Geografia de Azure](#geografia-de-azure)
     - [Zonas de disponibilidad](#zonas-de-disponibilidad)
 
-    
-  
