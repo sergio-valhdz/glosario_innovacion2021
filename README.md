@@ -50,7 +50,7 @@ Sígueme en:
   <img align="center" alt="Github Sergio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=sergio-valhdz&hide_border=true&theme=algolia&show_icons=true)
+![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=sergio-valhdz&hide_border=true&theme=material-palenight&show_icons=true)
 
 ### Ricardo Córdova Sánchez
 Sígueme en:
