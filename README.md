@@ -18,7 +18,8 @@ Sígueme en:
   <img align="center" alt="Github Sergio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=sergio-valhdz&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple)
+
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergio-valhdz&count_private=true&theme=midnight-purple&hide_border=true&show_icons=true)
 
 ### Ricardo Córdova Sánchez
 Sígueme en:
@@ -31,8 +32,6 @@ Sígueme en:
 <a href="https://github.com/Ricardocor67/">
   <img align="center" alt="Github Ricardo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
-![Ricardo's github stats](https://github-readme-stats.vercel.app/api?username=ricardocor67&show_icons=true&hide_border=true&count_private=true&theme=cobalt)
 
 ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardocor67&count_private=true&theme=cobalt&hide_border=true&show_icons=true)
 
@@ -49,6 +48,7 @@ Sígueme en:
 </a>
 
 ![Ramiro's github stats](https://github-readme-stats.vercel.app/api?username=RamiroVelazquez&show_icons=true&hide_border=true&count_private=true&theme=outrun)
+
 
 
 ## Conceptos basicos
