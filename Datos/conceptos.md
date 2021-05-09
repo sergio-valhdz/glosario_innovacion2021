@@ -1,35 +1,45 @@
 ##  Servicios de Azure
+<img align="center"  alt="logo"  width="350px" src=./Recursos/logoazure.png  />
+<br />
+<br />
 
 ### Compute Services
 
 Servicios de computo o procesamiento bajo demanda para aplicaciones usadas en la nube.
+Unos ejemplos serian:
+    * OneDrive de Microsoft
+    * iCloud de Apple
+    * Google Drive de Google
+
 
 ### Networking Services
 
 Servicios de red que permiten conectarse entre diversos sitios.
+Cada servicio generalmente lo proporciona un componente de servidor que se ejecuta en una o más computadoras
 
 ### Databases Services
 
-Servicios de bases de datos
+Servicios de bases de datos que ofrece a los usuarios la posibilidad de descubrir, limpiar, mejorar, integrar y administrar datos, lo cual ayuda en la toma de decisiones.
 
 ### Storage
 
-Almacenamiento de objetos grandes
+Suele ser la acción de guardar documentos o información en formatos ópticos o electromagnéticos en un ordenador, no obstante, esta acción dentro de las empresas implica una mayor responsabilidad debido al valor de lo que se almacena.
 
 ### Azure machine learning Services
 
 Crea tu modelo de intelgencia artificial
+Cree e implemente modelos de Machine Learning con rapidez usando herramientas que satisfagan sus necesidades, sea cual sea su nivel de conocimientos. 
 
 ### Azure Machine Learning Studio
 
-Modelos entrenados de manera visual y colaborativa
+Modelos entrenados de manera visual y colaborativa es un portal web en Azure Machine Learning que contiene opciones de código bajo y sin código para la creación de proyectos y la administración de activos.
 
 ### Azure cognitives Services
 
-Procesamiento de lenguaje natural,imagenes, voz, etc.
+Tiene como objetivo ayudar a los desarrolladores a crear aplicaciones inteligentes sin la utilización de “inteligencia artificial directa” y sin la necesidad de aptitudes ni conocimientos sobre ciencia de datos.
 
 ### DevOps Azure
-Automatizar procesos
+Es un conjunto de herramientas y servicios que te ayuda a administrar tus proyectos de desarrollo de software en todas sus fases.
 
 ## La nube
 
