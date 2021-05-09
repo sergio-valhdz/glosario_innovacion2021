@@ -8,13 +8,13 @@ En esta seccion encontrará las deficiones de los conceptos vistos durante el cu
 ## Participantes
 ### Sergio Antonio Valencia hernandez
 Sígueme en:
-<a href="www.linkedin.com/in/seanvaer">
+<a href="www.linkedin.com/in/seanvaer/">
   <img align="center" alt="LinkdeIn Sergio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/sergio16_vh12/">
   <img align="center" alt="Instagram Sergio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://github.com/sergio-valhdz">
+<a href="https://github.com/sergio-valhdz/">
   <img align="center" alt="Github Sergio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
@@ -28,7 +28,7 @@ Sígueme en:
 <a href="https://www.instagram.com/ricardo_sanchez0306/">
   <img align="center" alt="Instagram Ricardo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://github.com/Ricardocor67">
+<a href="https://github.com/Ricardocor67/">
   <img align="center" alt="Github Ricardo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
@@ -42,7 +42,7 @@ Sígueme en:
 <a href="https://www.instagram.com/ramyvepe/">
   <img align="center" alt="Instagram Ramiro" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://github.com/RamiroVelazquez">
+<a href="https://github.com/RamiroVelazquez/">
   <img align="center" alt="Github Ramiro" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
