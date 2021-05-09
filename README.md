@@ -8,7 +8,7 @@ En esta seccion encontrará las deficiones de los conceptos vistos durante el cu
 ## Participantes
 ### Sergio Antonio Valencia hernandez
 Sígueme en:
-<a href="www.linkedin.com/in/seanvaer/">
+<a href="https://www.linkedin.com/in/seanvaer/">
   <img align="center" alt="LinkdeIn Sergio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/sergio16_vh12/">
