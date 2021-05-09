@@ -1,18 +1,19 @@
 ##  Servicios de Azure
-<img align="center"  alt="logo"  width="350px" src=../Recursos/Logoazure.png  />
+<img align="center"  alt="logo"  width="350px" src=../Recursos/LogoAzure.png  />
 <br />
 <br />
 
 ### Compute Services
 
 Servicios de computo o procesamiento bajo demanda para aplicaciones usadas en la nube.
+
 Unos ejemplos serian:
 
-    * OneDrive de Microsoft
+* OneDrive de Microsoft
 
-    * iCloud de Apple
+* iCloud de Apple
 
-    * Google Drive de Google
+* Google Drive de Google
 
 
 ### Networking Services
