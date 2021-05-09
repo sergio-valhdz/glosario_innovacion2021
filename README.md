@@ -49,7 +49,6 @@ Sígueme en:
 
 ![Ramiro's github stats](https://github-readme-stats.vercel.app/api?username=RamiroVelazquez&show_icons=true&hide_border=true&count_private=true&theme=outrun)
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardocor67&count_private=true&theme=cobalt&hide_border=true&show_icons=true)
 
 
 ## Conceptos basicos
