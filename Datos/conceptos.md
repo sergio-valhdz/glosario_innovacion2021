@@ -1,5 +1,5 @@
 ##  Servicios de Azure
-<img align="center"  alt="logo"  width="350px" src=../Recursos/LogoAzure.png  />
+<img align="center"  alt="logo"  width="350px" src=../Recursos/Logoazure.png  />
 <br />
 <br />
 
@@ -13,7 +13,7 @@ Unos ejemplos serian:
 
 * iCloud de Apple
 
-* Google Drive de Google
+    * Google Drive de Google
 
 
 ### Networking Services
@@ -44,6 +44,14 @@ Tiene como objetivo ayudar a los desarrolladores a crear aplicaciones inteligent
 
 ### DevOps Azure
 Es un conjunto de herramientas y servicios que te ayuda a administrar tus proyectos de desarrollo de software en todas sus fases.
+
+<img align="center"  alt="nube"  width="550px" src=../Recursos/Nube1.png  />
+<br />
+<br />
+
+<img align="center"  alt="nube1"  width="550px" src=../Recursos/nube2.png  />
+<br />
+<br />
 
 ## La nube
 
@@ -79,6 +87,10 @@ Los datos se pueden implementar en centros regionales de todo el mundo.
 |     PaaS     |     Saas     |     IaaS     |
 |--------------|--------------|--------------|
 | Plataforma como servicio (Plataform as a Service). Entorno para construir, probar e implementar aplicaciones de software. Ayuda a crear aplicaciones rapidamente sin centrarse en la infraestructura subyacente. Nosotros administramos la aplicación.| Software como servicio (Software as a Service). Software alojado y administrado para usuarios finales. Se conectan y usan aplicaciones basadas en la nube a través de internet. Como Microsoft 365. El proveedor de los servicios es el encargado de la administración.| Infraestructura como servicio (Infrastructure as a service). Categoría más básica de computación en la nube. Servicio de pago por uso donde se alquilan servidores, maquinas virtuales, almacenamiento, redes y sistemas operativos de operadores en la nube. La responsabilidad es mayor para nosotros. | 
+
+<img align="center"  alt="nube1"  width="550px" src=../Recursos/Services.jpg_large  />
+<br />
+<br />
 
 
 ## Infraestructura de Azure
