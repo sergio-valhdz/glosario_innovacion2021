@@ -3,7 +3,39 @@
 <br />
 <br />
 <br /><br /><br /><br /><br />
-En esta seccion encontrará las deficiones de los conceptos vistos durante el curso Innovaación Virtual 2021.
+En esta seccion encontrará las deficiones de los conceptos vistos durante el curso Innovacción Virtual 2021.
+
+# Índice
+- [Participantes](#participantes)
+- [Conceptos básicos](./Datos/conceptos.md/#conceptos-básicos)
+  - [La nube](./Datos/conceptos.md/#la-nube)
+    - [Escalabilidad](./Datos/conceptos.md/#escalabilidad)
+    - [Elasticidad](./Datos/conceptos.md/#elasticidad)
+    - [Agilidad](./Datos/conceptos.md/#agilidad)
+    - [Alta diponibilidad](./Datos/conceptos.md/#alta-diponibilidad)
+    - [Tolerancia a fallos](./Datos/conceptos.md/#tolerancia-a-fallos)
+    - [Modelos de servicio de la nube](./Datos/conceptos.md/#modelos-de-servicio-de-la-nube)
+  - [Infraestructura de Azure](./Datos/conceptos.md/#infraestructura-de-azure)
+    - [Region de Azure](./Datos/conceptos.md/#region-de-azure)
+    - [Geografia de Azure](./Datos/conceptos.md/#geografia-de-azure)
+    - [Zonas de disponibilidad](./Datos/conceptos.md/#Zonas-de-disponibilidad)
+  - [Servicios de Azure](./Datos/conceptos.md/#servicios-de-azure)
+    - [Compute Services](./Datos/conceptos.md/#compute-services)
+    - [Networking Services](./Datos/conceptos.md/#networking-services)
+    - [Databases Services](./Datos/conceptos.md/#databases-services)
+    - [Storage](./Datos/conceptos.md/#storage)
+    - [Azure machine learning Services](./Datos/conceptos.md/#azure-machine-learning-services)
+    - [Azure Machine Learning Studio](./Datos/conceptos.md/#azure-machine-learning-studio)
+    - [Azure cognitives Services](./Datos/conceptos.md/#azure-cognitives-services)
+    - [DevOps Azure](./Datos/conceptos.md/#devops-azure)
+- [Comandos útiles](./Datos/conceptos.md/#comandos-útiles)
+  - [Git](./Datos/conceptos.md/#Git)
+    -  [Actualizar repositorio local](./Datos/conceptos.md/#actualizar-repositorio-local)
+    -  [Crear rama](./Datos/conceptos.md/#crear-rama)
+    -  [Moverse a otra rama](./Datos/conceptos.md/#moverse-a-otra-rama)
+    -  [Guardar cambios](./Datos/conceptos.md/#guardar-cambios)
+    -  [Crear commit](./Datos/conceptos.md/#crear-commit)
+    -  [Subir cambios](./Datos/conceptos.md/#subir-cambios)  
 
 ## Participantes
 ### Sergio Antonio Valencia hernandez
@@ -48,45 +80,4 @@ Sígueme en:
 
 ![Ramiro's github stats](https://github-readme-stats.vercel.app/api?username=RamiroVelazquez&show_icons=true&hide_border=true&theme=outrun)
 
-
-# Conceptos basicos
-
-##  Servicios de Azure
-
-### Compute Services
-
-### Networking Services
-
-### Databases Services
-
-### Storage
-
-### Azure machine learning Services
-
-### Azure Machine Learning Studio
-
-### Azure cognitives Services
-
-### DevOps Azure
-
-## La nube
-
-### Escalabilidad
-
-### Elasticidad
-
-### Agilidad
-
-### Alta diponibilidad
-
-### Tolerancia a fallos
-
-### Modelos de servicio de la nube
-
-## Infraestructura de Azure
-
-### Region de Azure
-
-### Geografia de Azure
-
-### [Zonas de disponibilidad](/Datos/conceptos.md")
+[Subir](#Glosario-de-Innovación-Virtual-2021)
