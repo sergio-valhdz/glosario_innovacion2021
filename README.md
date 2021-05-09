@@ -7,7 +7,7 @@ En esta seccion encontrará las deficiones de los conceptos vistos durante el cu
 
 # Índice
 - [Participantes](#participantes)
-- [Conceptos básicos](./Datos/conceptos.md/#comandos-útiles)
+- [Conceptos básicos](./Datos/conceptos.md/#conceptos-básicos)
   - [Servicios de Azure](./Datos/conceptos.md/#servicios-de-azure)
     - [Compute Services](./Datos/conceptos.md/#compute-services)
     - [Networking Services](./Datos/conceptos.md/#networking-services)
