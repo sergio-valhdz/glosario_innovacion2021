@@ -5,6 +5,33 @@
 <br /><br /><br /><br /><br />
 En esta seccion encontrará las deficiones de los conceptos vistos durante el curso Innovaación Virtual 2021.
 
+- [Glosario de Innovación Virtual 2021](#glosario-de-innovación-virtual-2021)
+  - [Participantes](#participantes)
+    - [Sergio Antonio Valencia hernandez](#sergio-antonio-valencia-hernandez)
+    - [Ricardo Córdova Sánchez](#ricardo-córdova-sánchez)
+    - [Jose Ramiro Velazquez Peregrino](#jose-ramiro-velazquez-peregrino)
+- [Conceptos basicos](#conceptos-basicos)
+  - [Servicios de Azure](#servicios-de-azure)
+    - [Compute Services](#compute-services)
+    - [Networking Services](#networking-services)
+    - [Databases Services](#databases-services)
+    - [Storage](#storage)
+    - [Azure machine learning Services](#azure-machine-learning-services)
+    - [Azure Machine Learning Studio](#azure-machine-learning-studio)
+    - [Azure cognitives Services](#azure-cognitives-services)
+    - [DevOps Azure](#devops-azure)
+  - [La nube](#la-nube)
+    - [Escalabilidad](#escalabilidad)
+    - [Elasticidad](#elasticidad)
+    - [Agilidad](#agilidad)
+    - [Alta diponibilidad](#alta-diponibilidad)
+    - [Tolerancia a fallos](#tolerancia-a-fallos)
+    - [Modelos de servicio de la nube](#modelos-de-servicio-de-la-nube)
+  - [Infraestructura de Azure](#infraestructura-de-azure)
+    - [Region de Azure](#region-de-azure)
+    - [Geografia de Azure](#geografia-de-azure)
+    - [Zonas de disponibilidad](#zonas-de-disponibilidad)
+
 ## Participantes
 ### Sergio Antonio Valencia hernandez
 Sígueme en:
@@ -80,7 +107,36 @@ Sígueme en:
 ### Alta diponibilidad
 
 ### Tolerancia a fallos
+<!-- TOC -->
 
+- [Glosario de Innovación Virtual 2021](#glosario-de-innovación-virtual-2021)
+  - [Participantes](#participantes)
+    - [Sergio Antonio Valencia hernandez](#sergio-antonio-valencia-hernandez)
+    - [Ricardo Córdova Sánchez](#ricardo-córdova-sánchez)
+    - [Jose Ramiro Velazquez Peregrino](#jose-ramiro-velazquez-peregrino)
+- [Conceptos basicos](#conceptos-basicos)
+  - [Servicios de Azure](#servicios-de-azure)
+    - [Compute Services](#compute-services)
+    - [Networking Services](#networking-services)
+    - [Databases Services](#databases-services)
+    - [Storage](#storage)
+    - [Azure machine learning Services](#azure-machine-learning-services)
+    - [Azure Machine Learning Studio](#azure-machine-learning-studio)
+    - [Azure cognitives Services](#azure-cognitives-services)
+    - [DevOps Azure](#devops-azure)
+  - [La nube](#la-nube)
+    - [Escalabilidad](#escalabilidad)
+    - [Elasticidad](#elasticidad)
+    - [Agilidad](#agilidad)
+    - [Alta diponibilidad](#alta-diponibilidad)
+    - [Tolerancia a fallos](#tolerancia-a-fallos)
+    - [Modelos de servicio de la nube](#modelos-de-servicio-de-la-nube)
+  - [Infraestructura de Azure](#infraestructura-de-azure)
+    - [Region de Azure](#region-de-azure)
+    - [Geografia de Azure](#geografia-de-azure)
+    - [Zonas de disponibilidad](#zonas-de-disponibilidad)
+
+<!-- /TOC -->
 ### Modelos de servicio de la nube
 
 ## Infraestructura de Azure
@@ -89,4 +145,4 @@ Sígueme en:
 
 ### Geografia de Azure
 
-### [Zonas de disponibilidad](/Datos/conceptos.md")
+### Zonas de disponibilidad
