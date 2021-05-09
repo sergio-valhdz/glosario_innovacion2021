@@ -34,7 +34,6 @@ Sígueme en:
 
 ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardocor67&theme=cobalt&hide_border=true&show_icons=true)
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardocor67)
 ### Jose Ramiro Velazquez Peregrino  
 Sígueme en:
 <a href="https://www.linkedin.com/in/jos%C3%A9-ramiro-vel%C3%A1zquez-peregrino-4628361b7/">
