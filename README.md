@@ -18,7 +18,7 @@ Sígueme en:
   <img align="center" alt="Github Sergio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=sergio-valhdz&show_icons=true&hide_border=true&count_private=false&theme=midnight-purple)
+![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=sergio-valhdz&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple)
 
 ### Ricardo Córdova Sánchez
 Sígueme en:
