@@ -1,7 +1,11 @@
 # Glosario de Innovación Virtual 2021
 <img align="left"  alt="libros"  width="150px" src=./Recursos/libros.png  />
-
+<br />
+<br />
+<br /><br /><br /><br /><br />
 En esta seccion encontrará las deficiones de los conceptos vistos durante el curso Innovaación Virtual 2021.
+
+
 
 
 
