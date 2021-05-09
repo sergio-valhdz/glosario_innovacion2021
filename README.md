@@ -32,7 +32,9 @@ Sígueme en:
   <img align="center" alt="Github Ricardo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-![Ricardos's github stats](https://github-readme-stats.vercel.app/api?username=ricardocor67&show_icons=true&hide_border=true&count_private=true&theme=cobalt)
+![Ricardo's github stats](https://github-readme-stats.vercel.app/api?username=ricardocor67&show_icons=true&hide_border=true&count_private=false&theme=cobalt)
+
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardocor67&count_private=true&theme=cobalt&hide_border=true&show_icons=true)
 
 ### Jose Ramiro Velazquez Peregrino  
 Sígueme en:
