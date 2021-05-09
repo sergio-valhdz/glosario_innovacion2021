@@ -5,9 +5,13 @@
 <br /><br /><br /><br /><br />
 En esta seccion encontrará las deficiones de los conceptos vistos durante el curso Innovaación Virtual 2021.
 
+## Participantes
+### Sergio Antonio Valencia hernandez
+![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=sergio-valhdz&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple)
 
+![Ricardos's github stats](https://github-readme-stats.vercel.app/api?username=ricardocor67&show_icons=true&hide_border=true&count_private=true&theme=cobalt)
 
-
+![Ramiro's github stats](https://github-readme-stats.vercel.app/api?username=RamiroVelazquez&show_icons=true&hide_border=true&count_private=true&theme=outrun)
 
 ## Conceptos basicos
 
@@ -82,6 +86,7 @@ Procesamiento de lenguaje natural,imagenes, voz, etc.
 Automatizar procesos
 
 ## Infraestructura de Azure
+
 
 ### Region de Azure
 
