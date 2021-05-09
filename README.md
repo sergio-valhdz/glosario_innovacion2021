@@ -51,6 +51,8 @@ Sígueme en:
 
 # Conceptos basicos
 
+##  Servicios de Azure
+
 ### Compute Services
 
 ### Networking Services
@@ -58,6 +60,14 @@ Sígueme en:
 ### Databases Services
 
 ### Storage
+
+### Azure machine learning Services
+
+### Azure Machine Learning Studio
+
+### Azure cognitives Services
+
+### DevOps Azure
 
 ## La nube
 
@@ -72,16 +82,6 @@ Sígueme en:
 ### Tolerancia a fallos
 
 ### Modelos de servicio de la nube
-
-##  Servicios de Azure
-
-### Azure machine learning Services
-
-### Azure Machine Learning Studio
-
-### Azure cognitives Services
-
-### DevOps Azure
 
 ## Infraestructura de Azure
 

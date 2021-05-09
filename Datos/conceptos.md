@@ -1,3 +1,4 @@
+##  Servicios de Azure
 
 ### Compute Services
 
@@ -15,6 +16,20 @@ Servicios de bases de datos
 
 Almacenamiento de objetos grandes
 
+### Azure machine learning Services
+
+Crea tu modelo de intelgencia artificial
+
+### Azure Machine Learning Studio
+
+Modelos entrenados de manera visual y colaborativa
+
+### Azure cognitives Services
+
+Procesamiento de lenguaje natural,imagenes, voz, etc.
+
+### DevOps Azure
+Automatizar procesos
 
 ## La nube
 
@@ -51,23 +66,6 @@ Los datos se pueden implementar en centros regionales de todo el mundo.
 |--------------|--------------|--------------|
 | Plataforma como servicio (Plataform as a Service). Entorno para construir, probar e implementar aplicaciones de software. Ayuda a crear aplicaciones rapidamente sin centrarse en la infraestructura subyacente. Nosotros administramos la aplicación.| Software como servicio (Software as a Service). Software alojado y administrado para usuarios finales. Se conectan y usan aplicaciones basadas en la nube a través de internet. Como Microsoft 365. El proveedor de los servicios es el encargado de la administración.| Infraestructura como servicio (Infrastructure as a service). Categoría más básica de computación en la nube. Servicio de pago por uso donde se alquilan servidores, maquinas virtuales, almacenamiento, redes y sistemas operativos de operadores en la nube. La responsabilidad es mayor para nosotros. | 
 
-
-##  Servicios de Azure
-
-### Azure machine learning Services
-
-Crea tu modelo de intelgencia artificial
-
-### Azure Machine Learning Studio
-
-Modelos entrenados de manera visual y colaborativa
-
-### Azure cognitives Services
-
-Procesamiento de lenguaje natural,imagenes, voz, etc.
-
-### DevOps Azure
-Automatizar procesos
 
 ## Infraestructura de Azure
 
