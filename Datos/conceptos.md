@@ -29,7 +29,7 @@ Si los recursos de la nube se pueden aplicar rápidamente a medida que cambias l
 
 ### Alta disponibilidad
 
-Recuperación ante desastres de recursos con copias de seguridad.
+Recuperación ante desastres de recursos con copias de seguridad. 
 
 ### Tolerancia a fallos
 
