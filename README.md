@@ -12,7 +12,7 @@ En esta seccion encontrará las deficiones de los conceptos vistos durante el cu
     - [Escalabilidad](./Datos/conceptos.md/#escalabilidad)
     - [Elasticidad](./Datos/conceptos.md/#elasticidad)
     - [Agilidad](./Datos/conceptos.md/#agilidad)
-    - [Alta diponibilidad](./Datos/conceptos.md/#alta-diponibilidad)
+    - [Alta disponibilidad](./Datos/conceptos.md/#alta-disponibilidad)
     - [Tolerancia a fallos](./Datos/conceptos.md/#tolerancia-a-fallos)
     - [Modelos de servicio de la nube](./Datos/conceptos.md/#modelos-de-servicio-de-la-nube)
   - [Infraestructura de Azure](./Datos/conceptos.md/#infraestructura-de-azure)

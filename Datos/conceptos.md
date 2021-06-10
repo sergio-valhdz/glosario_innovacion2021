@@ -27,9 +27,9 @@ Si las aplicaciones en la nube se pueden configurar para escalado automático (L
 
 Si los recursos de la nube se pueden aplicar rápidamente a medida que cambias los requisitos de la aplicación.
 
-### Alta diponibilidad
+### Alta disponibilidad
 
-Recuperación ante desastres de recursos con copias de seguridad.
+Recuperación ante desastres de recursos con copias de seguridad. 
 
 ### Tolerancia a fallos
 
